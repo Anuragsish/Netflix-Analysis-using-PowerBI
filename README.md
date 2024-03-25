@@ -1,6 +1,6 @@
 # Netflix-Data-Analysis-using-PowerBI
 
-######Created an integrated Power BI dashboard that synergizes the objectives mentioned below: 
+###### Created an integrated Power BI dashboard that synergizes the objectives mentioned below: 
 1)Shows Based on Country: 
 -Insights: Identified the most prominent content contributors, Which can be helpful to tailor the platform's content strategy based on regional preferences. 
 
